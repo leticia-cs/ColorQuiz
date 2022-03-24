@@ -13,3 +13,8 @@ Target:
 v1:
   - Set introduction, number of questions, number of options.
   - Nothing works yet, just testing.
+
+v2:
+   - Great improvements to code!
+   - Testing new functions
+   - Needs debugging.
