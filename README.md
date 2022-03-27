@@ -18,3 +18,9 @@ v2:
    - Great improvements to code!
    - Testing new functions
    - Needs debugging.
+
+v2.1:
+   - Optimized dict
+   - New variables assigned
+   - Syntax error(s) corrected
+   - Still needs debugging
